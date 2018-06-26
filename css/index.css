@@ -1,0 +1,26 @@
+      .done {text-decoration: line-through;}
+      
+      #square {
+      	width:200px;
+      	height: 200px;
+      	background-color: grey;
+      	padding: 50px;
+      	border: 50px solid red;
+      	margin: 50px
+
+     }
+      
+      h1{
+        color:red;
+        text-decoration: underline;
+        font-family: cursive;
+        font-style: 30px;
+		}
+		ul li{
+		color: blue;
+		font-style: cursive;
+        }
+
+        ol li{
+        	color: purple;
+        }
